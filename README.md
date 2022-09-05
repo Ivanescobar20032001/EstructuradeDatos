@@ -1,2 +1,2 @@
 # EstructuradeDatos
-Tareas de Estructura de dator
+Tareas de Estructura de datos
